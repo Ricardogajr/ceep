@@ -1,14 +1,8 @@
 import React, { Component } from "react";
-import Card from "./Card";
+import Card from "./Card/Card";
 
 export default class Post extends Component {
   render() {
-    return (
-      <ul>
-        <li>
-          <Card />
-        </li>
-      </ul>
-    );
+    return (<Card />);
   }
 }

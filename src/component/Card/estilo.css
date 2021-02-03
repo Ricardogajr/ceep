@@ -1,0 +1,20 @@
+.Card_CardTitle {
+  position: relative;
+  margin-top: 20px;
+  width: 100px;
+  padding-left: 20px;
+  border: black solid 2px;
+  color: red;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  font-style: underline;
+}
+.Card_ul li {
+  list-style: none;
+}
+.Card_CardItem {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: gray;
+}
